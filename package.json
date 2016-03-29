@@ -1,0 +1,23 @@
+{
+  "name": "openrdf-sesame",
+  "version": "1.0.0",
+  "description": "OpenRDF Sesame API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/udp/openrdf-sesame-js.git"
+  },
+  "author": "James Alastair McLaughlin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/udp/openrdf-sesame-js/issues"
+  },
+  "homepage": "https://github.com/udp/openrdf-sesame-js#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "xtend": "^4.0.1"
+  }
+}
