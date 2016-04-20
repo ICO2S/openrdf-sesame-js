@@ -1,6 +1,6 @@
 {
-  "name": "openrdf-sesame",
-  "version": "1.0.0",
+  "name": "openrdf-sesame-js",
+  "version": "0.1.0",
   "description": "OpenRDF Sesame API",
   "main": "index.js",
   "scripts": {
